@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¡Por fin! Ya tengo Web personal con Github
-published: false
+published: true
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
